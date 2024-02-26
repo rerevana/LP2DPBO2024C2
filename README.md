@@ -1,6 +1,6 @@
 #### Saya Revana Faliha Salma NIM 2202869 mengerjakan Soal Latihan 2 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-## DESAIN PROGRAM
+## Desain Program
 
 ![LP2](https://github.com/rerevana/LP2DPBO2024C2/assets/113984261/fa7ed726-c1c6-4b40-af33-43fd0bb5fea3)
 
